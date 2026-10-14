@@ -1,0 +1,7 @@
+# Project dependencies
+# Add your Python package requirements here.
+# Example:
+# pandas
+# openai
+# fastapi
+# python-dotenv
